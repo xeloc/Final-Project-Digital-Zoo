@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cdust\\OneDrive\\Desktop\\CSC-140\\Final-Project-Digital-Zoo\\Zoo-Animals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{913D8188-56FA-4795-9C6D-6A3733CF807E}|Zoo-Animals\\Zoo-Animals.vcxproj|C:\\Users\\cdust\\OneDrive\\Desktop\\CSC-140\\Final-Project-Digital-Zoo\\Zoo-Animals\\Zoo-Animals\\Zoo-Animals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{913D8188-56FA-4795-9C6D-6A3733CF807E}|Zoo-Animals\\Zoo-Animals.vcxproj|solutionrelative:Zoo-Animals\\Zoo-Animals.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zoo-Animals.cpp",
+              "DocumentMoniker": "C:\\Users\\cdust\\OneDrive\\Desktop\\CSC-140\\Final-Project-Digital-Zoo\\Zoo-Animals\\Zoo-Animals\\Zoo-Animals.cpp",
+              "RelativeDocumentMoniker": "Zoo-Animals\\Zoo-Animals.cpp",
+              "ToolTip": "C:\\Users\\cdust\\OneDrive\\Desktop\\CSC-140\\Final-Project-Digital-Zoo\\Zoo-Animals\\Zoo-Animals\\Zoo-Animals.cpp",
+              "RelativeToolTip": "Zoo-Animals\\Zoo-Animals.cpp",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-01T16:05:08.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
